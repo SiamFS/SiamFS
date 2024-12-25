@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student exploring full-stack development, programming and the wonders of Machine Learning.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=35C6F7&center=true&vCenter=true&width=500&lines=Exploring-Full-Stack+Development;Machine+Learning+Enthusiast;Tech+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=35C6F7&center=true&vCenter=true&width=500&lines=Exploring Full-Stack+Development;Machine+Learning+Enthusiast;Tech+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/night-coding.gif?raw=true">
