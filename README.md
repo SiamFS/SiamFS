@@ -9,7 +9,7 @@
 
 - 🌱 I'm currently learning **MERN stack techniques**  
 - 🤝 I'm looking to collaborate on **Exciting ML-based full-stack projects or open-source contributions.**  
-- 🤝 I'm looking for help with **Exploring DevOps tools.**  
+- 🔍 I'm looking for help with **Exploring DevOps tools.**  
 - 💬 Ask me about **Machine Learning fundamentals, MERN stack development**  
 - 📫 How to reach me: **siamferdous1@gmail.com**
 
