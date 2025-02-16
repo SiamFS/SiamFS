@@ -63,19 +63,12 @@
 </a>  
 
 <h3 align="left">GitHub Stats:</h3>
-
-<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap; width: 100%; max-width: 1200px;">
-
-  <div style="flex: 1; margin: 10px; min-width: 300px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siamfs&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
-  </div>
-
-  <div style="flex: 1; margin: 10px; min-width: 300px;">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=siamfs&theme=algolia" alt="GitHub Streak Stats" />
-  </div>
-
-  <div style="flex: 1; margin: 10px; min-width: 300px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=siamfs&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
-  </div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=siamfs&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siamfs&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=siamfs&theme=algolia" alt="GitHub Streak Stats" />
 </div>
+
+
