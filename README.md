@@ -65,9 +65,11 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=siamfs&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siamfs&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
   
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=siamfs&theme=algolia" alt="GitHub Streak Stats" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=siamfs&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
 </div>
+
