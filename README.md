@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Siam</h1>
 <h3 align="center">A passionate student exploring full-stack development, programming and the wonders of Machine Learning.</h3>
 
+<!-- ✅ Alternative Typing SVG from GitHub CDN -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=35C6F7&center=true&vCenter=true&width=500&lines=Exploring Full-Stack+Development;Machine+Learning+Enthusiast;Tech+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/typing.svg" alt="Typing SVG" />
 </p>
-<img align="right" alt="Coding" width="400" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/night-coding.gif?raw=true">
+
+<!-- ✅ Night Coding GIF -->
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/night-coding.gif">
 
 - 🌱 I'm currently learning **MERN stack techniques**  
 - 🤝 I'm looking to collaborate on **Exciting ML-based full-stack projects or open-source contributions.**  
@@ -12,12 +15,16 @@
 - 💬 Ask me about **Machine Learning fundamentals, MERN stack development**  
 - 📫 How to reach me: **siamferdous1@gmail.com**
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/siam-ferdous" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
+
+---
 
 <h3 align="left">Overview:</h3>
 
@@ -62,6 +69,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> 
 </a>  
 
+---
+
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=siamfs&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
@@ -70,5 +79,3 @@
   
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=siamfs&theme=algolia" alt="GitHub Streak Stats" />
 </div>
-
-
