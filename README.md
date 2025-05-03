@@ -101,7 +101,7 @@ I'm a Computer Science and Engineering student with expertise in building full-s
 - **User-Centric Design**: Focus on creating intuitive and accessible user experiences
 - **Collaborative Mindset**: Experience working in team environments and contributing to collaborative projects
 - **Continuous Learning**: Always expanding my knowledge and adapting to new technologies
-- **Attention to Detail**: Commitment to clean code, thorough testing, and technical excellence
+- **Attention to Detail**: Commitment to clean code, thorough testing.
 
 ## 📫 Let's Connect
 
