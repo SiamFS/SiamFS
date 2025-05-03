@@ -1,96 +1,123 @@
-<h1 align="center">Hi 👋, I'm Siam</h1>
-<h3 align="center">A passionate student exploring full-stack development, programming and the wonders of Machine Learning.</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=35C6F7&center=true&vCenter=true&width=500&lines=Exploring+Full-Stack+Development;Machine+Learning+Enthusiast;Tech+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
-
-<img align="right" alt="Coding" width="400" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/night-coding.gif?raw=true">
-
-## 🚀 About Me
-- 🌱 I'm currently learning **MERN stack techniques**
-- 🤝 I'm looking to collaborate on **exciting ML-based full-stack projects or open-source contributions**
-- 🔍 I'm looking for help with **exploring DevOps tools**
-- 💬 Ask me about **Machine Learning fundamentals, MERN stack development**
-- 📫 How to reach me: **siamferdous1@gmail.com**
-
-## 🔗 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/siam-ferdous" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
-## 💻 Tech Stack
-
-### Frontend & Backend Development
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> 
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /> 
-  </a>
-</p>
-
-### Database Management
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> 
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> 
-  </a>
-</p>
-
-### Tools & Frameworks
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> 
-  </a>
-</p>
-
-### Programming Languages
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> 
-  </a>
-</p>
-
-## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=siamfs&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siamfs&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=siamfs&theme=algolia" alt="GitHub Streak Stats" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a86ff,100:8338ec&height=200&section=header&text=Siam%20Ferdous&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </div>
 
-<!-- Adding visitor count -->
+<h3 align="center">Full-Stack Developer | Machine Learning Enthusiast | Computer Science Student</h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+robust+full-stack+applications;Exploring+Machine+Learning+solutions;Turning+complex+problems+into+elegant+code;Creating+impactful+digital+experiences" alt="Typing SVG" />
+</div>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siamfs&label=Profile%20views&color=0e75b6&style=flat" alt="siamfs" />
+  <a href="https://github.com/siamfs">
+    <img src="https://komarev.com/ghpvc/?username=siamfs&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/siamfs?tab=followers">
+    <img src="https://img.shields.io/github/followers/siamfs?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
+  </a>
+  <a href="mailto:siamferdous1@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/siam-ferdous" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
+
+<div align="center">
+  <a href="https://github.com/siamfs">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siamfs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Siam's GitHub stats" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=siamfs&theme=tokyonight&hide_border=true" alt="Siam's GitHub Streak" />
+  </a>
+</div>
+
+## 👨‍💻 About Me
+
+I'm a Computer Science and Engineering student with expertise in building full-stack web applications and exploring machine learning solutions. My passion lies in creating elegant, efficient code that solves real-world problems.
+
+- 🎓 Pursuing a Bachelor's degree in Computer Science and Engineering at **BRAC University**
+- 💻 Specializing in **MERN Stack** and **Django/Python** development
+- 🔬 Conducting research in **Machine Learning**, **Image processing** and **Natural Language Processing**
+- 📱 Experienced in building responsive, user-friendly interfaces with **React** and **Tailwind CSS**
+- 🛠️ Always adopting best practices in software development: **clean code**, **testing** and **version control**
+
+## 🛠️ Technical Skills
+
+<details open>
+  <summary><b>Languages & Frameworks</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=js,python,php,react,nodejs,express,django,mongodb,mysql,postgres" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>Frontend</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>Backend & Database</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+    <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>DevOps & Tools</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  </p>
+</details>
+
+## 📊 Most Used Languages
+
+<div align="center">
+  <a href="https://github.com/siamfs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamfs&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  </a>
+</div>
+
+## 🌟 What I Bring to Your Team
+
+- **Full-Stack Expertise**: Capable of architecting and implementing complete solutions from frontend to backend
+- **Problem-Solving Skills**: Analytical approach to breaking down complex challenges
+- **User-Centric Design**: Focus on creating intuitive and accessible user experiences
+- **Collaborative Mindset**: Experience working in team environments and contributing to collaborative projects
+- **Continuous Learning**: Always expanding my knowledge and adapting to new technologies
+- **Attention to Detail**: Commitment to clean code, thorough testing, and technical excellence
+
+## 📫 Let's Connect
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out!
+
+<div align="center">
+  <a href="mailto:siamferdous1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-siamferdous1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/siam-ferdous" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a86ff,100:8338ec&height=100&section=footer" />
+</div>
