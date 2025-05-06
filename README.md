@@ -26,7 +26,8 @@
 <div align="center">
   <a href="https://github.com/siamfs">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siamfs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Siam's GitHub stats" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=siamfs&theme=tokyonight&hide_border=true" alt="Siam's GitHub Streak" />
+    <!-- Fixed GitHub streak API -->
+    <img height="180em" src="https://streak-stats.vercel.app/?user=siamfs&theme=tokyonight&hide_border=true" alt="Siam's GitHub Streak" />
   </a>
 </div>
 
@@ -43,46 +44,49 @@ I'm a Computer Science and Engineering student with expertise in building full-s
 ## 🛠️ Technical Skills
 
 <details open>
-  <summary><b>Languages & Frameworks</b></summary>
+  <summary><b>Programming Languages</b></summary>
   <br>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,python,php,react,nodejs,express,django,mongodb,mysql,postgres" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   </p>
 </details>
 
 <details open>
-  <summary><b>Frontend</b></summary>
+  <summary><b>Frameworks and Libraries</b></summary>
   <br>
   <p align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>Backend & Database</b></summary>
-  <br>
-  <p align="center">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
     <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </p>
 </details>
 
 <details open>
-  <summary><b>DevOps & Tools</b></summary>
+  <summary><b>Database & Cloud</b></summary>
   <br>
   <p align="center">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+    <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>Tools and Version Control</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   </p>
 </details>
 
