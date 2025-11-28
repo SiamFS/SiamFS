@@ -2,110 +2,99 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a86ff,100:8338ec&height=200&section=header&text=Siam%20Ferdous&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </div>
 
-<h3 align="center">Full-Stack Developer | Machine Learning Enthusiast | Computer Science Student</h3>
+<h3 align="center">Aspiring Full-Stack Developer | Machine Learning Enthusiast | CS Graduate @ BRAC University</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+robust+full-stack+applications;Exploring+Machine+Learning+solutions;Turning+complex+problems+into+elegant+code;Creating+impactful+digital+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Learning+by+building+full-stack+projects;Exploring+machine+learning+step+by+step;Turning+ideas+into+working+applications;Growing+as+an+early-career+developer" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <a href="https://github.com/siamfs">
-    <img src="https://komarev.com/ghpvc/?username=siamfs&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/siamfs?tab=followers">
-    <img src="https://img.shields.io/github/followers/siamfs?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
-  </a>
-  <a href="mailto:siamferdous1@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/siam-ferdous" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+## About Me
+
+I am a recent Computer Science graduate from BRAC University with a growing interest in software and AI engineering. I've worked on full‑stack web projects using the MERN stack, focusing on both frontend and backend development while following clean code practices and Git‑based workflows.
+
+- CS Graduate from **BRAC University**  
+- Building with **MERN stack** and **Python**  
+- Exploring **Machine Learning** through projects  
+- Passionate about **clean code** and **version control**  
+
+## GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/siamfs">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siamfs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Siam's GitHub stats" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=siamfs&theme=tokyonight&hide_border=true" alt="Siam's GitHub Streak" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siamfs&theme=tokyonight" alt="GitHub Summary" />
 </div>
-
-## 👨‍💻 About Me
-
-I'm a Computer Science and Engineering student with expertise in building full-stack web applications and exploring machine learning solutions. My passion lies in creating elegant, efficient code that solves real-world problems.
-
-- 🎓 Pursuing a Bachelor's degree in Computer Science and Engineering at **BRAC University**
-- 💻 Specializing in **MERN Stack** and **Django/Python** development
-- 🔬 Conducting research in **Machine Learning**, **Image processing** and **Natural Language Processing**
-- 📱 Experienced in building responsive, user-friendly interfaces with **React** and **Tailwind CSS**
-- 🛠️ Always adopting best practices in software development: **clean code**, **testing** and **version control**
-
-## 🛠️ Technical Skills
-
-<details open>
-  <summary><b>Languages & Frameworks</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,python,php,react,nodejs,express,django,mongodb,mysql,postgres" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>Frontend</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>Backend & Database</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-    <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>DevOps & Tools</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-  </p>
-</details>
-
-## 📊 Most Used Languages
 
 <div align="center">
-  <a href="https://github.com/siamfs">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamfs&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-  </a>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siamfs&theme=tokyonight" alt="Stats" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=siamfs&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
 
-## 🌟 What I Bring to Your Team
+## Most Used Languages
 
-- **Full-Stack Expertise**: Capable of architecting and implementing complete solutions from frontend to backend
-- **Problem-Solving Skills**: Analytical approach to breaking down complex challenges
-- **User-Centric Design**: Focus on creating intuitive and accessible user experiences
-- **Collaborative Mindset**: Experience working in team environments and contributing to collaborative projects
-- **Continuous Learning**: Always expanding my knowledge and adapting to new technologies
-- **Attention to Detail**: Commitment to clean code, thorough testing, and technical excellence
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamfs&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</div>
 
-## 📫 Let's Connect
+## GitHub Trophies
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out!
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=siamfs&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+</div>
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-ff1709?style=for-the-badge&logo=django&logoColor=white)
+
+**Machine Learning**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
+
+**Databases & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+## What I Bring
+
+<div align="center">
+
+| Skill | Description |
+|:-----:|:-----------:|
+| **Full-Stack** | Comfortable working across frontend and backend |
+| **Problem-Solving** | Break problems into manageable steps |
+| **ML & Data** | Learning hands-on with scikit-learn, TensorFlow, and NLP |
+| **Collaboration** | Experience with Git workflows and team projects |
+| **Continuous Learning** | Always exploring new tools and technologies |
+
+</div>
+
+## Let's Connect
 
 <div align="center">
   <a href="mailto:siamferdous1@gmail.com">
