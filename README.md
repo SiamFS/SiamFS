@@ -64,7 +64,7 @@ I am a recent Computer Science graduate from BRAC University with a growing inte
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
 
@@ -88,7 +88,7 @@ I am a recent Computer Science graduate from BRAC University with a growing inte
 |:-----:|:-----------:|
 | **Full-Stack** | Comfortable working across frontend and backend |
 | **Problem-Solving** | Break problems into manageable steps |
-| **ML & Data** | Learning hands-on with scikit-learn, TensorFlow, and NLP |
+| **ML & Data** | Learning hands-on with scikit-learn, PyTorch, and NLP |
 | **Collaboration** | Experience with Git workflows and team projects |
 | **Continuous Learning** | Always exploring new tools and technologies |
 
