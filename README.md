@@ -34,12 +34,6 @@ I am a recent Computer Science graduate from BRAC University with a growing inte
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamfs&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </div>
 
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siamfs&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
-</div>
-
 ## Tech Stack
 
 <div align="center">
