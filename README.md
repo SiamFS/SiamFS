@@ -10,10 +10,10 @@
 
 ## About Me
 
-I am a recent Computer Science graduate from BRAC University with a growing interest in software and AI engineering. I've worked on full‑stack web projects using the MERN stack, focusing on both frontend and backend development while following clean code practices and Git‑based workflows.
+I am a recent Computer Science graduate from BRAC University with a growing interest in software and AI engineering. During my studies and training, I worked on full‑stack web projects and other modern tools, focusing on both frontend and backend development, collaborating with a team and following clean code and Git‑based workflows. Right now I am focusing on strengthening my foundations, building small side projects, and slowly moving deeper into Python and machine learning so I can contribute to real‑world AI products in the near future.
 
 - CS Graduate from **BRAC University**  
-- Building with **MERN stack** and **Python**  
+- Building with **modern web technologies** and **Python**  
 - Exploring **Machine Learning** through projects  
 - Passionate about **clean code** and **version control**  
 
@@ -31,7 +31,7 @@ I am a recent Computer Science graduate from BRAC University with a growing inte
 ## Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamfs&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siamfs&theme=tokyonight" alt="Most Used Languages" />
 </div>
 
 ## Tech Stack
